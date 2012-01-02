@@ -3,7 +3,7 @@ require File.expand_path('../lib/flot/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "flot-rails"
-  s.version     = Jquery::Rails::VERSION
+  s.version     = Flot::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Kevin Lynch"]
   s.email       = ["klynch@gmail.com"]
